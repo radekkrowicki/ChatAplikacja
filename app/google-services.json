@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448153606309",
+    "firebase_url": "https://chataplikacja-65d70.firebaseio.com",
+    "project_id": "chataplikacja-65d70",
+    "storage_bucket": "chataplikacja-65d70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448153606309:android:859bc855d26f9db3",
+        "android_client_info": {
+          "package_name": "com.radko.chataplikacja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448153606309-sk903ouhlktd9c9laqne5id3uj43vrr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radko.chataplikacja",
+            "certificate_hash": "e96bfb95e39c99bb5b6ebed4c1a3b81f2172fffd"
+          }
+        },
+        {
+          "client_id": "448153606309-seb5tgu3t2mqbuqh4mnu9e9qlkfs1m17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPqEsr68MiKpG3DKf4OM0XnvaOCqrIF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448153606309-seb5tgu3t2mqbuqh4mnu9e9qlkfs1m17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
